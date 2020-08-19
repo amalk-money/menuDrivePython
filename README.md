@@ -20,7 +20,10 @@
 ### Micrsoft Office Excel
 ![excel](https://github.com/amalk-money/menuDrivePython/blob/master/6.png)
 
-### Jupyter Notebook
+### Windows Media Player
 ![jupyter](https://github.com/amalk-money/menuDrivePython/blob/master/7.png)
+
+### Jupyter Notebook
+![jupyter](https://github.com/amalk-money/menuDrivePython/blob/master/8.png)
 
 ## In the code, there are many other programs too.
