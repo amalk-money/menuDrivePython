@@ -1,6 +1,6 @@
 # menuDrivePython
-## Converting the OS based program into a menu driven program using Python Code which will execute the required user query when user will give the input as a text.
-## Here are few screenshots of the programs opened through user given query
+#### Converting the OS based program into a menu driven program using Python Code which will execute the required user query when user will give the input as a text.
+#### Here are few screenshots of the programs opened through user given query
 
 ### VLC Player
 ![vlc](https://github.com/amalk-money/menuDrivePython/blob/master/1.png)
